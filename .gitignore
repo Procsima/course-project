@@ -1,0 +1,14 @@
+Swarm - Copy
+Swarm
+.venv
+.idea
+*.zip
+*.rar
+*.jpg
+*.gif
+cache
+full_data.csv
+predictions
+gifs
+**/catboost_info
+models/n.cbm
